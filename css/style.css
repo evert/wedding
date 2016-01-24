@@ -21,6 +21,7 @@ nav {
     word-spacing: 1em;
     padding-top: 50px;
     padding-bottom: 70px;
+    flex: 0 0 auto;
 }
 
 nav a {
@@ -32,11 +33,13 @@ nav a {
 
 section {
     text-align: center;
+    flex: 0 1 auto;
 }
 
 footer {
     padding-top: 60px;
     text-align: center;
+    flex: 0 0 auto;
 }
 
 
