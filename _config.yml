@@ -2,4 +2,4 @@ defaults:
     values:
         layout: "default"
 
-permalink: "/:title`
+permalink: "/:title"
