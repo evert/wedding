@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<img src="img/homepage.svg" />
+<img src="/img/homepage.svg" />
