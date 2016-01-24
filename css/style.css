@@ -9,7 +9,7 @@ html {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    width: 775px;
+    max-width: 775px;
     margin: 0 auto;
     padding: 0;
     display: flex;
@@ -19,6 +19,7 @@ body {
 
 img {
     margin: 0;
+    max-width: 100%;
 }
 
 nav {
@@ -34,6 +35,7 @@ nav a {
     text-decoration: none;
     word-spacing: normal;
     text-transform: uppercase;
+    white-space: nowrap;
 }
 
 section {
@@ -47,4 +49,12 @@ footer {
     flex: 0 0 auto;
 }
 
-
+@media (max-width: 480px) {
+    nav {
+        order: 1;
+        font-size: 200%;
+    }
+    footer {
+        order: 2;
+    }
+}
