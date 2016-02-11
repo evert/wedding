@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Travel information
+==================
+
 Location
 --------
 
