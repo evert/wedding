@@ -13,6 +13,6 @@ Everyone else is welcome to join the reception, which starts at 5pm.
 
 For the people that live or stay in Groningen, we will providing a shuttle
 service, so you don't have to think about transportation or how many
-beverages you had.
+beverages you've had.
 
 
