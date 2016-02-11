@@ -48,6 +48,14 @@ footer {
     text-align: center;
     flex: 0 0 auto;
 }
+.rsvpForm {
+
+    width: 100%;
+    min-height: 700px;
+    border: 0;
+    margin: 0;
+
+}
 
 @media (max-width: 480px) {
     nav {
@@ -60,11 +68,3 @@ footer {
 
 }
 
-.rsvpForm {
-
-    width: 100%;
-    min-height: 700px;
-    border: 0;
-    margin: 0;
-
-}
