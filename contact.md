@@ -5,6 +5,6 @@ layout: default
 Contact
 =======
 
-If you need to get a hold of us for any sort of information, just send an email to foo@bar.com.
+If you need to get a hold of us for any sort of information, just send an email to hello@evert-and-roxy.love
 
-On the day itself, we can be reached via: 1234 6578
+We also have a Facebook page, [Evert & Roxy's Wedding Group](https://www.facebook.com/groups/roxyevert/) which will be great for questions and group coordination.
