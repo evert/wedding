@@ -21,3 +21,8 @@ Pre-Wedding Events
 We want to arrange some activities for our out-of-towners in the days leading up to the wedding. To be announced closer to the date!
 
 What kinds of activities to expect: Windmills, Pancake House (Restaurant), Dutch Islands
+
+Post-Wedding Events
+===================
+
+Evert and Roxy are thinking about going to Greece! You're on your own ;)
