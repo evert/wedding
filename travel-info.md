@@ -40,14 +40,16 @@ Stay
 ----
 
 Since Nijega is so super tiny, we would not recommend trying to stay there. It's too depressing!
-However, there are two towns nearby that the locals refer to as cities:
+However, we suggest staying in the nearby[Groningen](https://en.wikipedia.org/wiki/Groningen). A young vibrant city guarenteed to give you a true Dutch experience! We will also plan some activities in the days leading up to the wedding. Keep in mind to search for something closer to the city centre or in the neighbourhood, Binnenstad.
 
-* [Leeuwarden](https://en.wikipedia.org/wiki/Leeuwarden)
-* [Groningen](https://en.wikipedia.org/wiki/Groningen)
+Here are some links to help you search for accommodation:
 
-In particular we highly recommend people to look for accomodation in Groningen, as it has the nicest
-city center and is totally fun for going out too.
+* [Bugett Hostels](http://www.hostelbookers.com/property/42097/arr/2016-08-05/ngt/10/ppl/1/?sc_pos=1)
+* [Air BnB](https://www.airbnb.ca/s/Groningen--Netherlands?guests=2&checkin=05-08-2016&checkout=15-08-2016&ss_id=1bdybzrh&ss_preload=true&source=bb)
+* [Expedia](https://www.expedia.ca/Hotel-Search?#&destination=Groningen, Netherlands&startDate=07/08/2016&endDate=14/08/2016&regionId=6055848&latLong=53.222477,6.563501&adults=2)
+* 
+If you are looking for someone to share accommodation with, please let us know or post a message in our [Facebook wedding group](https://www.facebook.com/groups/roxyevert/)
 
-Here are some suggestions for hotels:
 
-* ...
+
+
