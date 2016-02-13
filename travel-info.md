@@ -48,7 +48,7 @@ Here are some links to help you search for accommodation:
 * [Airbnb](https://www.airbnb.ca/s/Groningen--Netherlands?guests=2&checkin=05-08-2016&checkout=15-08-2016&ss_id=1bdybzrh&ss_preload=true&source=bb)
 * [Expedia](https://www.expedia.ca/Hotel-Search?#&destination=Groningen, Netherlands&startDate=07/08/2016&endDate=14/08/2016&regionId=6055848&latLong=53.222477,6.563501&adults=2)
 * 
-If you are looking for someone to share accommodation with, please let us know or post a message in our [Facebook wedding group].(https://www.facebook.com/groups/roxyevert/)
+If you are looking for someone to share accommodation with, please let us know or post a message in our [Facebook wedding group.](https://www.facebook.com/groups/roxyevert/)
 
 
 
