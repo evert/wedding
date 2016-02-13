@@ -40,7 +40,7 @@ Stay
 ----
 
 Since Nijega is so super tiny, we would not recommend trying to stay there. It's too depressing!
-However, we suggest staying in the nearby [Groningen](https://en.wikipedia.org/wiki/Groningen). A young vibrant city guarenteed to give you a true Dutch experience! We will also plan some activities in the days leading up to the wedding. Keep in mind to search for something closer to the city centre or in the neighbourhood, Binnenstad.
+However, we suggest staying in the nearby [Groningen](https://en.wikipedia.org/wiki/Groningen). A young vibrant city guarenteed to give you a true Dutch experience! We will also plan some activities in the days leading up to the wedding. Keep in mind to search for something closer to the city centre, locally referred to as Binnenstad.
 
 Here are some links to help you search for accommodation:
 
