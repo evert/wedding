@@ -47,6 +47,11 @@ footer {
     text-align: center;
     flex: 0 0 auto;
 }
+
+section.home p {
+    text-align: center;
+}
+
 .rsvpForm {
 
     width: 100%;
