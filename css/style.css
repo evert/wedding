@@ -17,7 +17,7 @@ body {
     height: 100%;
 }
 
-h1, h2, h3 {
+h1, h2, h3, nav {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -56,7 +56,7 @@ section.home p {
     text-align: center;
 }
 
-table th, table td {
+th, td {
     text-align: left;
     padding: 3px;
     border: 1px solid #333;
