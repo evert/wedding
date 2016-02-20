@@ -79,17 +79,25 @@ th, td {
 
     .hamburger {
         display: inline-block;
-        padding: 4px;
+        padding: 4px 8px;;
         font-size: 200%;
         background: #ccc;
         border-bottom-right-radius: 8px;
         cursor: pointer;
     }
 
-    nav.open .menu-options {
-    
-        display: block;
+    nav.open {
         background: #ccc;
+    }
+
+    nav.open .hamburger {
+        background: none;
+        border-bottom-right-radius: 0;
+    }
+
+    nav.open .menu-options {
+
+        display: block;
         font-size: 150%;
         width: 100%;
         padding-left: 10px;
@@ -99,14 +107,23 @@ th, td {
         display: block;
         color: black;
         border-bottom: 1px solid #fff;
-        text-decoration: none; 
+        text-decoration: none;
         padding: 10px 0 10px 0;
     }
-
 
     section {
         padding-top: 10px;
     }
+
+    h1 {
+        padding: 5px 0 20px 60px;
+        margin: 0;
+    }
+
+    p {
+        padding: 0 10px;
+    }
+
 
 }
 
