@@ -15,6 +15,10 @@ For the people that live or stay in Groningen, we will providing a shuttle
 service, so you don't have to think about transportation or how many
 beverages you've had.
 
+It might get a little chilly in the evening, so bringing a blanket might be
+a good idea. The average temperatures for the area can be found
+[here](http://www.yr.no/place/Netherlands/Friesland/Drachten/statistics.html)
+
 Pre-Wedding Events 
 ==================
 
