@@ -17,15 +17,35 @@
 
     <link rel="shortcut icon" type="image/png" href="/img/icon/ios/Icon-60@2x.png"/>
 
+    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+
+    <script>
+
+        $(document).ready(function() {
+            $('.hamburger').click(function() {
+                $('nav').toggleClass('open');
+            });
+        });
+
+
+    </script>
+
   </head>
   <body>
       <nav>
-         <a href="/">Home</a>
-         <a href="/about-the-couple/">About the couple</a>
-         <a href="/the-day/">The wedding day</a>
-         <a href="/travel-info/">Travel Info</a>
-         <a href="/rsvp/">RSVP</a>
-         <a href="/contact/">Contact us</a>
+
+          <span class="hamburger">☰ </span>
+
+          <div class="menu-options">
+
+             <a href="/">Home</a>
+             <a href="/about-the-couple/">About the couple</a>
+             <a href="/the-day/">The wedding day</a>
+             <a href="/travel-info/">Travel Info</a>
+             <a href="/rsvp/">RSVP</a>
+             <a href="/contact/">Contact us</a>
+
+          </div>
       </nav>
 
       <section class="{{ page.sectionClass }}">
