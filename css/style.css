@@ -52,6 +52,13 @@ section.home p {
     text-align: center;
 }
 
+table th, table td {
+    text-align: left;
+    padding: 3px;
+    border: 1px solid #333;
+}
+
+
 .rsvpForm {
 
     width: 100%;
