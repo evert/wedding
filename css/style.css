@@ -92,6 +92,7 @@ th, td {
         background: #ccc;
         font-size: 150%;
         width: 100%;
+        padding-left: 10px;
 
     }
     nav.open .menu-options a {
