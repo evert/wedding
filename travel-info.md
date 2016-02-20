@@ -39,8 +39,11 @@ The 'Driving distance' is based on the location of the wedding.
 Stay
 ----
 
-Since Nijega is so super tiny, we would not recommend trying to stay there. It's too depressing!
-However, we suggest staying in the nearby [Groningen](https://en.wikipedia.org/wiki/Groningen). A young vibrant city guarenteed to give you a true Dutch experience! We will also plan some activities in the days leading up to the wedding. Keep in mind to search for something closer to the city centre, locally referred to as Binnenstad.
+Nijega is very tiny, and doesn't have hotels. So we suggest staying in the
+nearby [Groningen](https://en.wikipedia.org/wiki/Groningen), a young vibrant
+city guaranteed to give you a true Dutch experience! We will also plan some
+activities in the days leading up to the wedding. Keep in mind to search for
+something closer to the city centre, locally referred to as Binnenstad.
 
 Here are some links to help you search for accommodation:
 
