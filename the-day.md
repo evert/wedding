@@ -6,7 +6,7 @@ The Wedding Day
 ===============
 
 The big day is August 13th! We will be welcoming our closest friends and
-people that traveled from from abroad at around 2pm ck to attend
+people that traveled from from abroad at around 2pm to attend
 our ceremony.
 
 Everyone else is welcome to join the reception, which starts at 5pm.
