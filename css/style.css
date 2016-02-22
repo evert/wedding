@@ -55,6 +55,12 @@ p, ul, th, td {
 	font-family: 'Lora', serif;
 	line-height: 1.7;
 	color: #6F6352;
+	font-size: 1.7em;
+	vertical-align: baseline;
+}
+
+p {
+	text-align: center;
 }
 
 a {
@@ -105,7 +111,7 @@ article.homepage {
 .couple-img {
 	height: 100%;
 	position: absolute;
-	height: 120vh;
+	height: calc(120vh + 14em);
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -204,7 +210,6 @@ th, td {
 }
 
 iframe {
-	pointer-events: none;
 	margin-bottom: 2em;
 }
 
