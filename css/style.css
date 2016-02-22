@@ -113,7 +113,7 @@ article.homepage {
 	z-index: 1;
 	top: 0;
 	bottom: 0;
-	width: 100vw;
+	width: 100%;
 	animation: fade-in 15s infinite;
 }
 
