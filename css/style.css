@@ -1,8 +1,8 @@
 #colors {
-	#99c2a9;
-	#d29494;
+	color: #99c2a9;
+	color: #d29494;
 	color: #c6a36f;
-	#f5f5e2;
+	color: #f5f5e2;
 }
 
 * {
@@ -37,6 +37,7 @@ h1 {
 	font-family: 'Rochester', sans-serif;
 	font-size: 4em;
 	padding: 2em 0 0;
+	margin: 0 0 1ex 0;
 }
 
 h1 .material-icons {
@@ -49,9 +50,11 @@ h1 .material-icons {
 h2 {
 	font-family: 'Montserrat', sans-serif;;
 	font-size: 1.2em;
+	margin: 3em 0 2em;
+
 }
 
-p, ul, th, td {
+p, ul, th, td, address {
 	font-family: 'Lora', serif;
 	line-height: 1.7;
 	color: #6F6352;
@@ -59,8 +62,15 @@ p, ul, th, td {
 	vertical-align: baseline;
 }
 
+address,
 p {
 	text-align: center;
+}
+
+address {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-style: normal;
 }
 
 a {
@@ -80,21 +90,18 @@ img {
 	z-index: 10;
 }
 
-
 section {
 	flex: 1 0 auto;
 }
 
 article {
 	padding: 7em 0;
-	min-height: 120vh;
+	min-height: 110vh;
 }
 
 article > p,
 article > ul,
 article > table,
-article > h1,
-article > h2,
 article > h3 {
 	margin: 0 20% 2em;
 }
@@ -172,6 +179,7 @@ article.travel-info {
 
 article.rsvp {
 	background: #99c2a9;
+	padding-bottom: 0;
 }
 
 article.rsvp h1,
@@ -182,6 +190,10 @@ article.rsvp a {
 
 article.contact {
 	padding-bottom: 0;
+}
+
+article.contact img {
+	margin-top: 16em;
 }
 
 footer {
@@ -201,10 +213,12 @@ table {
 
 th {
 	vertical-align: bottom;
+	font-family: 'Montserrat', sans-serif;
 }
 
 th, td {
 	text-align: left;
+	font-size: 1.3em;
 	padding: 1ex;
 	border-bottom: 1px dotted #c5a26f;
 }
