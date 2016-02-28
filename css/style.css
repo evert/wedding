@@ -209,6 +209,7 @@ section.home p {
 table {
 	border-collapse: collapse;
 	width: 60%;
+    overflow-x: scroll;
 }
 
 th {
