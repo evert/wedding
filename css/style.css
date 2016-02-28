@@ -312,6 +312,12 @@ iframe {
 		width: 100%;
 	}
 
+    table td, table tr {
+        text-align: left;
+        font-size: 75%;
+        padding: 2px;
+    }
+
 }
 
 
