@@ -33,18 +33,20 @@
 	</nav>
 	<section class="page" id="home">
 		<article class="homepage">
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
-			<div class="couple-img"></div>
+            <div class="couple-img">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div style="opacity: 1"></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
 			<img src="img/homepage-2.svg" />
 		</article>
 		<article class="about-the-couple">
@@ -189,7 +191,24 @@
             $('.map').mouseleave(function () {
                 $('.map iframe').css('pointer-events', 'none'); // set the pointer events to none when mouse leaves the map area
             });
+
+            // Slideshow
+            var currentImage = 7;
+            window.setInterval(function() {
+
+                console.log('boo');
+                $('div.couple-img div:eq(' + currentImage + ')').css('opacity', 0);
+                currentImage++;
+                if (currentImage > 12) {
+                    currentImage = 0;
+                }
+                $('div.couple-img div:eq(' + currentImage + ')').css('opacity', 1);
+
+            }, 15000);
+
         });
+
+
 
 	</script>
 </body>

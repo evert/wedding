@@ -115,10 +115,10 @@ article.homepage {
 	position: relative;
 }
 
-.couple-img {
+.couple-img div {
 	height: 100%;
 	position: absolute;
-	height: calc(120vh + 14em);
+	height: calc(100% + 14em);
 	background-attachment: fixed;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -127,21 +127,22 @@ article.homepage {
 	top: 0;
 	bottom: 0;
 	width: 100%;
-	animation: fade-in 15s infinite;
+    opacity: 0;
+    transition: 2s opacity;
 }
 
-.couple-img:nth-child(1) {opacity: 0; animation-delay: 10s; background-image: url(../img/couple/1.jpg); }
-.couple-img:nth-child(2) {opacity: 0; animation-delay: 20s; background-image: url(../img/couple/2.jpg); }
-.couple-img:nth-child(3) {opacity: 0; animation-delay: 30s; background-image: url(../img/couple/3.jpg); }
-.couple-img:nth-child(4) {opacity: 0; animation-delay: 40s; background-image: url(../img/couple/4.jpg); }
-.couple-img:nth-child(5) {opacity: 0; animation-delay: 50s; background-image: url(../img/couple/5.jpg); background-position: 65%}
-.couple-img:nth-child(6) {opacity: 0; animation-delay: 60s; background-image: url(../img/couple/6.jpg); }
-.couple-img:nth-child(7) {opacity: 0; animation-delay: 70s; background-image: url(../img/couple/7.jpg); }
-.couple-img:nth-child(8) {opacity: 0; animation-delay: 80s; background-image: url(../img/couple/8.jpg); }
-.couple-img:nth-child(9) {opacity: 0; animation-delay: 90s; background-image: url(../img/couple/9.jpg); }
-.couple-img:nth-child(10) {opacity: 0; animation-delay: 100s; background-image: url(../img/couple/10.jpg); }
-.couple-img:nth-child(11) {opacity: 0; animation-delay: 110s; background-image: url(../img/couple/11.jpg); }
-.couple-img:nth-child(12) {opacity: 0; animation-delay: 120s; background-image: url(../img/couple/12.jpg); }
+.couple-img div:nth-child(1) {background-image: url(../img/couple/1.jpg); }
+.couple-img div:nth-child(2) {background-image: url(../img/couple/2.jpg); }
+.couple-img div:nth-child(3) {background-image: url(../img/couple/3.jpg); }
+.couple-img div:nth-child(4) {background-image: url(../img/couple/4.jpg); }
+.couple-img div:nth-child(5) {background-image: url(../img/couple/5.jpg); }
+.couple-img div:nth-child(6) {background-image: url(../img/couple/6.jpg); }
+.couple-img div:nth-child(7) {background-image: url(../img/couple/7.jpg); }
+.couple-img div:nth-child(8) {background-image: url(../img/couple/8.jpg); }
+.couple-img div:nth-child(9) {background-image: url(../img/couple/9.jpg); }
+.couple-img div:nth-child(10) {background-image: url(../img/couple/10.jpg); }
+.couple-img div:nth-child(11) {background-image: url(../img/couple/11.jpg); }
+.couple-img div:nth-child(12) {background-image: url(../img/couple/12.jpg); }
 
 
 @keyframes fade-in {
